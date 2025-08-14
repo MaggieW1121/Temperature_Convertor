@@ -1,4 +1,6 @@
-"""This version is to made some modifications from the feedback that the AI code reviewer has provided."""
+"""This is the last version of my Temperature Conversion Program. 
+Compare to the previous version,this version is to made some modifications from the feedback that the AI code reviewer has provided.
+This program is to undergo temperature conversion between centigrade and fahrenheit """
 
 # This version fixed errors/made modification on...
 # 1. The minor grammar and spelling errors in the comments or instructions
